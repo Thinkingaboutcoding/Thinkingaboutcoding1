@@ -1,2 +1,2 @@
-# Thinkingaboutcoding1
-1
+# Thinkingaboutcoding
+Erste README!
